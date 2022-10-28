@@ -60,6 +60,7 @@ nnoremap <leader>sv :so ~/.vimrc<CR>
 " Navigating buffers
 nnoremap <silent> <leader>h :bprevious<CR>
 nnoremap <silent> <leader>l :bnext<CR>
+nnoremap <silent> <leader>x :bd<CR>
 nnoremap <leader>ff :ls<CR>:buffer<SPACE>
 
 
